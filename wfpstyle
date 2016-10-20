@@ -1,5 +1,5 @@
 html {
 	font-size: 12px;
-	font-family: "Yanone Kaffeesatz", serif;
+	font-family: 'Open Sans', sans-serif;
 };
 
